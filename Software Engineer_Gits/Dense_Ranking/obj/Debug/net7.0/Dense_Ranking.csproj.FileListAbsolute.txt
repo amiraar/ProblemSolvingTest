@@ -1,0 +1,15 @@
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\bin\Debug\net7.0\Dense_Ranking.exe
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\bin\Debug\net7.0\Dense_Ranking.deps.json
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\bin\Debug\net7.0\Dense_Ranking.runtimeconfig.json
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\bin\Debug\net7.0\Dense_Ranking.dll
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\bin\Debug\net7.0\Dense_Ranking.pdb
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\Dense_Ranking.csproj.AssemblyReference.cache
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\Dense_Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\Dense_Ranking.AssemblyInfoInputs.cache
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\Dense_Ranking.AssemblyInfo.cs
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\Dense_Ranking.csproj.CoreCompileInputs.cache
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\Dense_Ranking.dll
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\refint\Dense_Ranking.dll
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\Dense_Ranking.pdb
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\Dense_Ranking.genruntimeconfig.cache
+C:\Users\User\Software Engineer_Gits\Dense_Ranking\obj\Debug\net7.0\ref\Dense_Ranking.dll

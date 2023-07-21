@@ -1,0 +1,15 @@
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\bin\Debug\net7.0\Balanced_Bracket.exe
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\bin\Debug\net7.0\Balanced_Bracket.deps.json
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\bin\Debug\net7.0\Balanced_Bracket.runtimeconfig.json
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\bin\Debug\net7.0\Balanced_Bracket.dll
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\bin\Debug\net7.0\Balanced_Bracket.pdb
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\Balanced_Bracket.csproj.AssemblyReference.cache
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\Balanced_Bracket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\Balanced_Bracket.AssemblyInfoInputs.cache
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\Balanced_Bracket.AssemblyInfo.cs
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\Balanced_Bracket.csproj.CoreCompileInputs.cache
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\Balanced_Bracket.dll
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\refint\Balanced_Bracket.dll
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\Balanced_Bracket.pdb
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\Balanced_Bracket.genruntimeconfig.cache
+C:\Users\User\Software Engineer_Gits\Balanced_Bracket\obj\Debug\net7.0\ref\Balanced_Bracket.dll

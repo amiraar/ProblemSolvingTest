@@ -1,0 +1,15 @@
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\bin\Debug\net7.0\A000124_of_Sloanes_OEIS.exe
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\bin\Debug\net7.0\A000124_of_Sloanes_OEIS.deps.json
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\bin\Debug\net7.0\A000124_of_Sloanes_OEIS.runtimeconfig.json
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\bin\Debug\net7.0\A000124_of_Sloanes_OEIS.dll
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\bin\Debug\net7.0\A000124_of_Sloanes_OEIS.pdb
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\A000124_of_Sloanes_OEIS.csproj.AssemblyReference.cache
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\A000124_of_Sloanes_OEIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\A000124_of_Sloanes_OEIS.AssemblyInfoInputs.cache
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\A000124_of_Sloanes_OEIS.AssemblyInfo.cs
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\A000124_of_Sloanes_OEIS.csproj.CoreCompileInputs.cache
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\A000124_of_Sloanes_OEIS.dll
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\refint\A000124_of_Sloanes_OEIS.dll
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\A000124_of_Sloanes_OEIS.pdb
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\A000124_of_Sloanes_OEIS.genruntimeconfig.cache
+C:\Users\User\Software Engineer_Gits\A000124_of_Sloanes_OEIS\obj\Debug\net7.0\ref\A000124_of_Sloanes_OEIS.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "A000124_of_Sloanes_OEIS/1.0.0": {
+        "runtime": {
+          "A000124_of_Sloanes_OEIS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A000124_of_Sloanes_OEIS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
